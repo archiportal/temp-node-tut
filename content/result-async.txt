@@ -1,0 +1,3 @@
+Here is the result :
+Hola, this is first text file.
+HOla, this is second
